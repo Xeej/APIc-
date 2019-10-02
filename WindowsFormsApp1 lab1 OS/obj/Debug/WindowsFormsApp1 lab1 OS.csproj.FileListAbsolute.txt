@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\bin\Debug\WindowsFormsApp1 lab1 OS.exe.config
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\bin\Debug\WindowsFormsApp1 lab1 OS.exe
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\bin\Debug\WindowsFormsApp1 lab1 OS.pdb
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\obj\Debug\WindowsFormsApp1 lab1 OS.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\obj\Debug\WindowsFormsApp1_lab1_OS.Properties.Resources.resources
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\obj\Debug\WindowsFormsApp1 lab1 OS.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\obj\Debug\WindowsFormsApp1 lab1 OS.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\obj\Debug\WindowsFormsApp1 lab1 OS.exe
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\obj\Debug\WindowsFormsApp1 lab1 OS.pdb
+C:\Users\Denis\source\repos\WindowsFormsApp1 lab1 OS\WindowsFormsApp1 lab1 OS\obj\Debug\WindowsFormsApp1_lab1_OS.Form1.resources
