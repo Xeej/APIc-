@@ -20,7 +20,7 @@ mysql> SELECT * FROM description;
 |  4 | Мышки игровые       |
 +----+---------------------+
 
-SELECT * FROM product LEFT JOIN catigories USING(id); //ОТВЕТ
+SELECT * FROM product LEFT JOIN description USING(id); //ОТВЕТ
 +----+-----------+---------------------+
 | id | name      | description         |
 +----+-----------+---------------------+
